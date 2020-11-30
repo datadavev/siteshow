@@ -1,0 +1,23 @@
+# vanilla-template
+
+Vanilla website with yarn, sass, webpack
+
+Use as a template in GitHub.
+
+Build and run locally with live reload:
+
+----
+yarn dev
+----
+
+Build for production:
+
+----
+yarn build
+----
+
+Then take `./public` and place on the server.
+
+References:
+
+* https://blog.bitsrc.io/build-a-website-with-modern-tooling-and-no-frameworks-a33e65099f9
